@@ -1,6 +1,6 @@
 
 
-[Contentful](https://github.com/esraelif/Contentful_CMS-main/blob/main/contentful/src/assets/cms.gif)
+[Contentful Project gif](https://github.com/esraelif/Contentful_CMS-main/blob/main/contentful/src/assets/cms.gif)
 
 ## Steps
 
